@@ -8,7 +8,7 @@
   ],
   "sdk_version": "v0.53.4-stable-2",
   "coin_type": "505",
-  "addr_prefix": "realio",
+  "addr_prefix": "stable",
   "min_tx_fee": "800",
   "logo": "/logos/stable.jpg",
   "assets": [
