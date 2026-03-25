@@ -1,0 +1,20 @@
+{
+    "chain_name": "ault",
+    "coingecko": "",
+    "api": ["https://ault-testnet-api.itrocket.net"],
+    "rpc": ["https://ault-testnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.53.5",
+    "coin_type": 60,
+    "min_tx_fee": "300000",
+    "addr_prefix": "ault",
+    "logo": "/logos/ault.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aault",
+        "symbol": "AULT",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/logos/ault.jpg"
+    }]
+}
