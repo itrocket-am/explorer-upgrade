@@ -1,0 +1,22 @@
+{
+  "chain_name": "stable",
+  "api": [
+    "https://stable-mainnet-api.itrocket.net"
+  ],
+  "rpc": [
+    "https://stable-mainnet-rpc.itrocket.net"
+  ],
+  "sdk_version": "v0.53.4-stable-2",
+  "coin_type": "505",
+  "addr_prefix": "stable",
+  "min_tx_fee": "800",
+  "logo": "/logos/stable.jpg",
+  "assets": [
+    {
+      "symbol": "STABLE",
+      "base": "astable",
+      "exponent": 18,
+      "logo": "/logos/stable.jpg"
+    }
+ ]
+}

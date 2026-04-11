@@ -1,0 +1,18 @@
+{
+  "chain_name": "push",
+  "api": ["https://push-testnet-api.itrocket.net"],
+  "rpc": ["https://push-testnet-rpc.itrocket.net"],
+  "coin_type": 118,
+  "min_tx_fee": 200,
+  "sdk_version": "0.46.8",
+  "addr_prefix": "push",
+  "logo": "/logos/push.jpg",
+  "assets": [
+    {
+      "base": "upc",
+      "symbol": "PC",
+      "exponent": 18,
+      "logo": "/logos/push.jpg"
+    }
+  ]
+}
